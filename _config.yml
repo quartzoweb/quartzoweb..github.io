@@ -42,6 +42,7 @@ avatar: "/img/HandlerImageDocs.jpg"
 author:
   name: Rodrigo
   email: "rodrigo@quartzoweb.com.br"
+  telephone: yourphone +55(21)96908-1121 # eg. +14159998888
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
@@ -54,8 +55,7 @@ author:
   instagram: yourname # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
-
+  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
