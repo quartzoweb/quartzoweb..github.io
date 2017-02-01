@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Quartzoweb Blog Posts
+title: Server-Works.GQ - IT Advisory for Server Deployment
 
 # Short description of your site
-description: Posts about technology
+description: Posts about servers technology
 
 # --- Navigation bar options --- #
 
@@ -25,10 +25,7 @@ description: Posts about technology
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Author's home: "http://server-works.gq/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
